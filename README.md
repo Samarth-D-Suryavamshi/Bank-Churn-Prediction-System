@@ -479,11 +479,9 @@ https://github.com/Samarth-D-Suryavamshi
 * Data Validation
 * Documentation Support
 
-**LinkedIn:**
-https://www.linkedin.com/in/rashmi-m-d-815762344
+**LinkedIn:** https://www.linkedin.com/in/rashmi-m-d-815762344
 
-**GitHub:**
-[To Be Added]
+**GitHub:** https://github.com/rashmi160405
 
 ---
 
