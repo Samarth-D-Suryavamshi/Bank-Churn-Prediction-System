@@ -310,9 +310,9 @@ Performance metrics will be updated after final model evaluation and validation.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Samarth-D-Suryavamshi/bank-churn-prediction-system.git
+git clone https://github.com/Samarth-D-Suryavamshi/Bank-Churn-Prediction-System.git
 
-cd bank-churn-prediction-system
+cd Bank-Churn-Prediction-System
 ```
 
 ### Backend Setup
